@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "OM TOWER - 2",
+      "location": "next to NK, front of decent apartments",
+      "price": 8000,
+      "image": "",
+      "facilities": ["WiFi", "Parking", "Hot Tub"]
+    },
+    {
+      "id": 2,
+      "name": "Sunshine Apartments",
+      "location": "near LPU main gate",
+      "price": 7500,
+      "image": "",
+      "facilities": ["WiFi", "Parking"]
+    },
+    {
+      "id": 3,
+      "name": "Green View Flats",
+      "location": "Green Valley, 2km from LPU",
+      "price": 9000,
+      "image": "",
+      "facilities": ["WiFi", "Hot Tub"]
+    },
+    {
+      "id": 4,
+      "name": "City Center Apartments",
+      "location": "Phagwara main market",
+      "price": 8500,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvE8ubcsYgSFsjFoaGliPaO-0OP4nxToUrA&s",
+      "facilities": ["WiFi", "Parking", "Hot Tub"]
+    },
+    {
+      "id": 5,
+      "name": "Sunny Heights",
+      "location": "near main road",
+      "price": 9500,
+      "image": "",
+      "facilities": ["WiFi", "Parking"]
+    },
+    {
+      "id": 6,
+      "name": "Royal Residency",
+      "location": "2km from LPU",
+      "price": 10000,
+      "image": "",
+      "facilities": ["WiFi", "Hot Tub", "Gym"]
+    },
+    {
+      "id": 7,
+      "name": "Comfort Stay",
+      "location": "close to market",
+      "price": 7000,
+      "image": "",
+      "facilities": ["WiFi"]
+    },
+    {
+      "id": 8,
+      "name": "Elegant Living",
+      "location": "near bus stand",
+      "price": 11000,
+      "image": "",
+      "facilities": ["Parking", "Hot Tub"]
+    },
+    {
+      "id": 9,
+      "name": "Lush Apartments",
+      "location": "1km from LPU",
+      "price": 12000,
+      "image": "",
+      "facilities": ["WiFi", "Parking", "Hot Tub"]
+    },
+    {
+      "id": 10,
+      "name": "Peaceful Homestay",
+      "location": "in a quiet area",
+      "price": 6500,
+      "image": "",
+      "facilities": ["WiFi", "Parking"]
+    },
+    {
+      "id": 11,
+      "name": "Modern Flats",
+      "location": "near the city center",
+      "price": 13000,
+      "image": "",
+      "facilities": ["WiFi", "Gym"]
+    },
+    {
+      "id": 12,
+      "name": "Charming Apartments",
+      "location": "next to the park",
+      "price": 9500,
+      "image": "",
+      "facilities": ["WiFi", "Parking", "Hot Tub"]
+    },
+    {
+      "id": 13,
+      "name": "Cozy Corner",
+      "location": "quiet neighborhood",
+      "price": 7200,
+      "image": "",
+      "facilities": ["WiFi", "Parking"]
+    },
+    {
+      "id": 14,
+      "name": "Luxury Suites",
+      "location": "close to the mall",
+      "price": 15000,
+      "image": "",
+      "facilities": ["WiFi", "Hot Tub", "Gym"]
+    },
+    {
+      "id": 15,
+      "name": "Affordable Living",
+      "location": "in the suburbs",
+      "price": 6000,
+      "image": "",
+      "facilities": ["WiFi"]
+    },
+    {
+      "id": 16,
+      "name": "Spacious Homes",
+      "location": "family-friendly area",
+      "price": 14000,
+      "image": "",
+      "facilities": ["WiFi", "Parking", "Hot Tub"]
+    },
+    {
+      "id": 17,
+      "name": "Quiet Retreat",
+      "location": "away from the hustle",
+      "price": 8000,
+      "image": "",
+      "facilities": ["WiFi"]
+    },
+    {
+      "id": 18,
+      "name": "Downtown Apartments",
+      "location": "near bus station",
+      "price": 9500,
+      "image": "",
+      "facilities": ["WiFi", "Parking"]
+    },
+    {
+      "id": 19,
+      "name": "City View Flats",
+      "location": "overlooking the skyline",
+      "price": 12000,
+      "image": "",
+      "facilities": ["WiFi", "Hot Tub"]
+    },
+    {
+      "id": 20,
+      "name": "Garden Villas",
+      "location": "surrounded by greenery",
+      "price": 10000,
+      "image": "",
+      "facilities": ["WiFi", "Parking", "Hot Tub", "Gym"]
+    }
+  ]
+  
