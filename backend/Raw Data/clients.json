@@ -1,0 +1,344 @@
+[{
+  "_id": {
+    "$oid": "67116224454b61889d1c280c"
+  },
+  "name": "Sharma PG",
+  "image": "pg1.jpg",
+  "area": "Lawgate",
+  "price": 5000,
+  "food": "Food",
+  "gender": "Male",
+  "rating": 4.2,
+  "facilities": [
+    "Refrigerator",
+    "Washing Machine"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c280d"
+  },
+  "name": "Green Valley Stay",
+  "image": "pg2.jpg",
+  "area": "Green Valley",
+  "price": 12000,
+  "food": "without food",
+  "gender": "Female",
+  "rating": 3.8,
+  "facilities": [
+    "TV",
+    "Water Heater"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c280e"
+  },
+  "name": "Royal PG",
+  "image": "pg3.jpg",
+  "area": "Ramamandi",
+  "price": 7000,
+  "food": "Food",
+  "gender": "mix",
+  "rating": 4.5,
+  "facilities": [
+    "Inverter",
+    "Window AC"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c280f"
+  },
+  "name": "Luxury Homes",
+  "image": "pg4.jpg",
+  "area": "Phagwara",
+  "price": 15000,
+  "food": "without food",
+  "gender": "Female",
+  "rating": 4.9,
+  "facilities": [
+    "Wall AC",
+    "Generator",
+    "Washing Machine"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c2810"
+  },
+  "name": "Lawgate Residency",
+  "image": "pg5.jpg",
+  "area": "Lawgate",
+  "price": 8000,
+  "food": "Food",
+  "gender": "Male",
+  "rating": 3.7,
+  "facilities": [
+    "Refrigerator",
+    "Inverter"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c2811"
+  },
+  "name": "Elite PG",
+  "image": "pg6.jpg",
+  "area": "Green Valley",
+  "price": 18000,
+  "food": "without food",
+  "gender": "mix",
+  "rating": 4.3,
+  "facilities": [
+    "TV",
+    "Wall AC"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c2812"
+  },
+  "name": "Cozy Stay",
+  "image": "pg7.jpg",
+  "area": "Phagwara",
+  "price": 9000,
+  "food": "Food",
+  "gender": "Female",
+  "rating": 4.1,
+  "facilities": [
+    "Generator",
+    "Water Heater"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c2813"
+  },
+  "name": "Student Haven",
+  "image": "pg8.jpg",
+  "area": "Ramamandi",
+  "price": 6000,
+  "food": "Food",
+  "gender": "Male",
+  "rating": 3.5,
+  "facilities": [
+    "Washing Machine",
+    "Inverter"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c2814"
+  },
+  "name": "PG Paradise",
+  "image": "pg9.jpg",
+  "area": "Lawgate",
+  "price": 17000,
+  "food": "without food",
+  "gender": "Female",
+  "rating": 4.7,
+  "facilities": [
+    "TV",
+    "Refrigerator"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c2815"
+  },
+  "name": "Green Valley Comfort",
+  "image": "pg10.jpg",
+  "area": "Green Valley",
+  "price": 14000,
+  "food": "Food",
+  "gender": "mix",
+  "rating": 4,
+  "facilities": [
+    "Wall AC",
+    "Washing Machine"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c2816"
+  },
+  "name": "Luxury Stay",
+  "image": "pg11.jpg",
+  "area": "Ramamandi",
+  "price": 16000,
+  "food": "without food",
+  "gender": "Female",
+  "rating": 4.6,
+  "facilities": [
+    "Generator",
+    "Inverter",
+    "Water Heater"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c2817"
+  },
+  "name": "Comfort Zone PG",
+  "image": "pg12.jpg",
+  "area": "Phagwara",
+  "price": 6000,
+  "food": "Food",
+  "gender": "Male",
+  "rating": 4.2,
+  "facilities": [
+    "Refrigerator",
+    "Wall AC"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c2818"
+  },
+  "name": "Green Valley Elite",
+  "image": "pg13.jpg",
+  "area": "Green Valley",
+  "price": 13000,
+  "food": "Food",
+  "gender": "mix",
+  "rating": 3.9,
+  "facilities": [
+    "TV",
+    "Window AC",
+    "Water Heater"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c2819"
+  },
+  "name": "City PG",
+  "image": "pg14.jpg",
+  "area": "Lawgate",
+  "price": 11000,
+  "food": "without food",
+  "gender": "Female",
+  "rating": 3.6,
+  "facilities": [
+    "Generator",
+    "Washing Machine"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c281a"
+  },
+  "name": "Cozy Nook",
+  "image": "pg15.jpg",
+  "area": "Phagwara",
+  "price": 10000,
+  "food": "Food",
+  "gender": "mix",
+  "rating": 4.4,
+  "facilities": [
+    "Refrigerator",
+    "Inverter"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c281b"
+  },
+  "name": "Ramamandi Stay",
+  "image": "pg16.jpg",
+  "area": "Ramamandi",
+  "price": 15000,
+  "food": "without food",
+  "gender": "Male",
+  "rating": 4.8,
+  "facilities": [
+    "Wall AC",
+    "Water Heater"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c281c"
+  },
+  "name": "Royal Residency",
+  "image": "pg17.jpg",
+  "area": "Lawgate",
+  "price": 19000,
+  "food": "without food",
+  "gender": "Female",
+  "rating": 4,
+  "facilities": [
+    "Refrigerator",
+    "Inverter"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c281d"
+  },
+  "name": "Phagwara Comfort",
+  "image": "pg18.jpg",
+  "area": "Phagwara",
+  "price": 7000,
+  "food": "Food",
+  "gender": "Male",
+  "rating": 3.4,
+  "facilities": [
+    "TV",
+    "Water Heater"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c281e"
+  },
+  "name": "Ramamandi PG",
+  "image": "pg19.jpg",
+  "area": "Ramamandi",
+  "price": 13000,
+  "food": "without food",
+  "gender": "mix",
+  "rating": 4.6,
+  "facilities": [
+    "Refrigerator",
+    "Wall AC",
+    "Washing Machine"
+  ],
+  "wishlist": []
+},
+{
+  "_id": {
+    "$oid": "67116224454b61889d1c281f"
+  },
+  "name": "Green Valley Nest",
+  "image": "pg20.jpg",
+  "area": "Green Valley",
+  "price": 20000,
+  "food": "without food",
+  "gender": "Female",
+  "rating": 4.8,
+  "facilities": [
+    "Refrigerator",
+    "Generator"
+  ],
+  "wishlist": []
+}]
