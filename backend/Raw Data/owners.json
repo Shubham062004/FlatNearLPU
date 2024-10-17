@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "67116405454b61889d1c2822"
+  },
+  "name": "Rajesh Kumar",
+  "email": "rajesh@example.com",
+  "phoneNumber": "9876543210",
+  "properties": [
+    {
+      "roomNumber": "101",
+      "rentAmount": 10000,
+      "electricityMeterReading": 120,
+      "electricityBill": 500,
+      "amountPending": 200,
+      "joiningDate": "2023-01-10T00:00:00.000Z",
+      "clientId": "8642"
+    },
+    {
+      "roomNumber": "102",
+      "rentAmount": 15000,
+      "electricityMeterReading": 180,
+      "electricityBill": 700,
+      "amountPending": 0,
+      "joiningDate": "2023-02-15T00:00:00.000Z",
+      "clientId": "8642"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67116405454b61889d1c2823"
+  },
+  "name": "Anita Sharma",
+  "email": "anita.sharma@example.com",
+  "phoneNumber": "9123456789",
+  "properties": [
+    {
+      "roomNumber": "201",
+      "rentAmount": 12000,
+      "electricityMeterReading": 150,
+      "electricityBill": 600,
+      "amountPending": 100,
+      "joiningDate": "2023-03-12T00:00:00.000Z",
+      "clientId": "2468"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67116405454b61889d1c2824"
+  },
+  "name": "Sunil Mehta",
+  "email": "sunil.mehta@example.com",
+  "phoneNumber": "9012345678",
+  "properties": [
+    {
+      "roomNumber": "301",
+      "rentAmount": 8000,
+      "electricityMeterReading": 90,
+      "electricityBill": 400,
+      "amountPending": 0,
+      "joiningDate": "2023-04-01T00:00:00.000Z",
+      "clientId": "0246"
+    },
+    {
+      "roomNumber": "302",
+      "rentAmount": 8500,
+      "electricityMeterReading": 100,
+      "electricityBill": 450,
+      "amountPending": 0,
+      "joiningDate": "2023-05-01T00:00:00.000Z",
+      "clientId": "0246"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67116405454b61889d1c2825"
+  },
+  "name": "Priya Verma",
+  "email": "priya.verma@example.com",
+  "phoneNumber": "9801234567",
+  "properties": [
+    {
+      "roomNumber": "401",
+      "rentAmount": 11000,
+      "electricityMeterReading": 130,
+      "electricityBill": 550,
+      "amountPending": 150,
+      "joiningDate": "2023-06-05T00:00:00.000Z",
+      "clientId": "8026"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67116405454b61889d1c2826"
+  },
+  "name": "Vikram Singh",
+  "email": "vikram.singh@example.com",
+  "phoneNumber": "9701234567",
+  "properties": [
+    {
+      "roomNumber": "501",
+      "rentAmount": 14000,
+      "electricityMeterReading": 200,
+      "electricityBill": 800,
+      "amountPending": 0,
+      "joiningDate": "2023-07-10T00:00:00.000Z",
+      "clientId": "0246"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67116405454b61889d1c2827"
+  },
+  "name": "Kiran Gupta",
+  "email": "kiran.gupta@example.com",
+  "phoneNumber": "9601234567",
+  "properties": [
+    {
+      "roomNumber": "601",
+      "rentAmount": 9500,
+      "electricityMeterReading": 110,
+      "electricityBill": 500,
+      "amountPending": 50,
+      "joiningDate": "2023-08-15T00:00:00.000Z",
+      "clientId": "0246"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67116405454b61889d1c2828"
+  },
+  "name": "Arun Nair",
+  "email": "arun.nair@example.com",
+  "phoneNumber": "9501234567",
+  "properties": [
+    {
+      "roomNumber": "701",
+      "rentAmount": 10500,
+      "electricityMeterReading": 160,
+      "electricityBill": 700,
+      "amountPending": 0,
+      "joiningDate": "2023-09-20T00:00:00.000Z",
+      "clientId": "0246"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67116405454b61889d1c2829"
+  },
+  "name": "Rohit Patil",
+  "email": "rohit.patil@example.com",
+  "phoneNumber": "9401234567",
+  "properties": [
+    {
+      "roomNumber": "801",
+      "rentAmount": 7500,
+      "electricityMeterReading": 95,
+      "electricityBill": 420,
+      "amountPending": 80,
+      "joiningDate": "2023-10-05T00:00:00.000Z",
+      "clientId": "0246"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67116405454b61889d1c282a"
+  },
+  "name": "Deepa Joshi",
+  "email": "deepa.joshi@example.com",
+  "phoneNumber": "9301234567",
+  "properties": [
+    {
+      "roomNumber": "901",
+      "rentAmount": 12500,
+      "electricityMeterReading": 170,
+      "electricityBill": 720,
+      "amountPending": 50,
+      "joiningDate": "2023-10-10T00:00:00.000Z",
+      "clientId": "0246"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67116405454b61889d1c282b"
+  },
+  "name": "Amit Tiwari",
+  "email": "amit.tiwari@example.com",
+  "phoneNumber": "9201234567",
+  "properties": [
+    {
+      "roomNumber": "1001",
+      "rentAmount": 13500,
+      "electricityMeterReading": 190,
+      "electricityBill": 750,
+      "amountPending": 0,
+      "joiningDate": "2023-11-01T00:00:00.000Z",
+      "clientId": "0246"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67116405454b61889d1c282c"
+  },
+  "name": "Seema Yadav",
+  "email": "seema.yadav@example.com",
+  "phoneNumber": "9101234567",
+  "properties": [
+    {
+      "roomNumber": "1101",
+      "rentAmount": 9500,
+      "electricityMeterReading": 115,
+      "electricityBill": 500,
+      "amountPending": 20,
+      "joiningDate": "2023-12-01T00:00:00.000Z",
+      "clientId": "0246"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67116405454b61889d1c282d"
+  },
+  "name": "Rakesh Malhotra",
+  "email": "rakesh.malhotra@example.com",
+  "phoneNumber": "9001234567",
+  "properties": [
+    {
+      "roomNumber": "1201",
+      "rentAmount": 14500,
+      "electricityMeterReading": 210,
+      "electricityBill": 850,
+      "amountPending": 0,
+      "joiningDate": "2023-12-10T00:00:00.000Z",
+      "clientId": "0246"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67116405454b61889d1c282e"
+  },
+  "name": "Sanjay Aggarwal",
+  "email": "sanjay.aggarwal@example.com",
+  "phoneNumber": "9801123456",
+  "properties": [
+    {
+      "roomNumber": "101",
+      "rentAmount": 12500,
+      "electricityMeterReading": 200,
+      "electricityBill": 750,
+      "amountPending": 0,
+      "joiningDate": "2023-01-25T00:00:00.000Z",
+      "clientId": "8012"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67116405454b61889d1c282f"
+  },
+  "name": "Reema Kapoor",
+  "email": "reema.kapoor@example.com",
+  "phoneNumber": "9812345670",
+  "properties": [
+    {
+      "roomNumber": "202",
+      "rentAmount": 15000,
+      "electricityMeterReading": 250,
+      "electricityBill": 900,
+      "amountPending": 100,
+      "joiningDate": "2023-02-15T00:00:00.000Z",
+      "clientId": "8246"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67116405454b61889d1c2830"
+  },
+  "name": "Aditya Bansal",
+  "email": "aditya.bansal@example.com",
+  "phoneNumber": "9812345671",
+  "properties": [
+    {
+      "roomNumber": "303",
+      "rentAmount": 13500,
+      "electricityMeterReading": 175,
+      "electricityBill": 800,
+      "amountPending": 0,
+      "joiningDate": "2023-03-10T00:00:00.000Z",
+      "clientId": "8246"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67116405454b61889d1c2831"
+  },
+  "name": "Meera Raj",
+  "email": "meera.raj@example.com",
+  "phoneNumber": "9812345673",
+  "properties": [
+    {
+      "roomNumber": "505",
+      "rentAmount": 17000,
+      "electricityMeterReading": 280,
+      "electricityBill": 1100,
+      "amountPending": 50,
+      "joiningDate": "2023-05-01T00:00:00.000Z",
+      "clientId": "8246"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67116405454b61889d1c2832"
+  },
+  "name": "Suresh Desai",
+  "email": "suresh.desai@example.com",
+  "phoneNumber": "9812345674",
+  "properties": [
+    {
+      "roomNumber": "606",
+      "rentAmount": 11500,
+      "electricityMeterReading": 160,
+      "electricityBill": 650,
+      "amountPending": 20,
+      "joiningDate": "2023-06-15T00:00:00.000Z",
+      "clientId": "8246"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67116405454b61889d1c2833"
+  },
+  "name": "Divya Nanda",
+  "email": "divya.nanda@example.com",
+  "phoneNumber": "9812345675",
+  "properties": [
+    {
+      "roomNumber": "707",
+      "rentAmount": 9500,
+      "electricityMeterReading": 130,
+      "electricityBill": 550,
+      "amountPending": 10,
+      "joiningDate": "2023-07-20T00:00:00.000Z",
+      "clientId": "8246"
+    }
+  ]
+}]
